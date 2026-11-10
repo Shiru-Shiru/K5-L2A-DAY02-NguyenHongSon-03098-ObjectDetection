@@ -8,8 +8,8 @@
 - MSSV: 03098
 - Email: 0917077890son@gmail.com
 - Lớp: 2A
-- Link repo bài làm:
-- Link Colab đã chạy:
+- Link repo bài làm: https://github.com/Shiru-Shiru/K5-L2A-DAY02-NguyenHongSon-03098-ObjectDetection.git
+- Link Colab đã chạy: https://colab.research.google.com/github/Shiru-Shiru/K5-L2A-DAY02-NguyenHongSon-03098-ObjectDetection/blob/main/notebooks/day2_annotation_to_yolo.ipynb
 
 ## 2. Schema và mini guideline
 
@@ -17,11 +17,11 @@ Dẫn tới [GUIDELINE_MINI.md](../../GUIDELINE_MINI.md). Tóm tắt ba ca mơ h
 
 ## 3. Annotation và self-QC
 
-- Số file nhãn train:
-- Kết quả checker và lỗi đã xử lý:
-- Danh sách ít nhất 10 ảnh đã rà bằng mắt:
+- Số file nhãn train: 50
+- Kết quả checker và lỗi đã xử lý: 
+- Danh sách ít nhất 10 ảnh đã rà bằng mắt: 
 - Lỗi bỏ sót/box/class phát hiện khi rà và cách sửa:
-- Commit khóa nhãn ban đầu:
+- Commit khóa nhãn ban đầu: Labeled Data
 
 ## 4. Gold QC và rework
 

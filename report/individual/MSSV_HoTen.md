@@ -4,10 +4,10 @@
 
 ## 1. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Lớp:
+- Họ tên: NGUYỄN HỒNG SƠN
+- MSSV: 03098
+- Email: 0917077890son@gmail.com
+- Lớp: 2A
 - Link repo bài làm:
 - Link Colab đã chạy:
 
